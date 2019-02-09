@@ -1,13 +1,34 @@
-# Freecodecamp Ibadan
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e150187b-9757-46a0-a000-d0d0ccb72e53/deploy-status)](https://app.netlify.com/sites/fcc-ibadan/deploys)
-Starter with the bare essentials needed for a [Gatsby](https://www.gatsbyjs.org/) site.
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-```
-gatsby new gatsby-site https://github.com/gatsbyjs/gatsby-starter-hello-world
-```
+# Freecodecamp Ibadan
 
-Or [view the live demo here](https://gatsby-starter-hello-world-demo.netlify.com/).
+Plans
+- [ ] List of contributors
+- [ ] Finish the requirement analysis
+- [ ] Get UI/UX 
+- [ ] Start the coding
+- [ ] Review and Testing
+- [ ] Completion
 
-## Running in development
-`gatsby develop`
+
+## How to contribute
+
+Create a CONTRIBUTING guide. 
+
+## How to Get Started
+clone the project
+Run `npm install`
+Run `gatsby develop`
+
+You are good to go.
+
+## The Pages involved in the Project
+* landing page
+* about page
+* meetup or events (a section for each meetup with summary and full details about each monthly meetup)
+* Not sure yet - Blog (advice needed here)
+* plans or goals or vision page
+* list of all the members of the meetup
+
+NB - You can write your suggestions here if you have any idea or thing we should do or use
