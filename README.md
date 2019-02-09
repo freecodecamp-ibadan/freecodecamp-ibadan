@@ -4,7 +4,7 @@
 # Freecodecamp Ibadan
 
 Plans
-- [ ] List of contributors
+- [ ] List of contributors and set up the [https://github.com/all-contributors/all-contributors-bot](@all-contributors-bot)
 - [ ] Finish the requirement analysis
 - [ ] Get UI/UX 
 - [ ] Start the coding
