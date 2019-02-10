@@ -2,9 +2,22 @@ import React from "react"
 import { Link } from 'gatsby'
 import styled from 'styled-components'
 
+const Wrapper = styled.div`
+  @media (max-width: 700px) {
+    background: red;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    a {
+      text-decoration: none;
+      color: #fff;
+    }
+  }
+`;
+
 const Center = styled.div`
   height: 70vh;
-  margin: 0 300px;
+  margin: 20px 200px;
   padding: 20px;
   text-align: center;
   background-color: #ffffff;
@@ -33,10 +46,26 @@ const Center = styled.div`
   a {
     text-decoration: none;
   }
+  @media (max-width: 1200px) {
+    margin: 20px;
+    &:before, &:after {
+      content: none
+    }
+
+  }
+  @media (max-width: 1000px) {
+    p, a {
+      display: block;
+      width: 100%;
+      padding: 0;
+      margin: 0;
+    }
+
+  }
 `;
 
 export default () => (
-  <div>
+  <Wrapper>
   <Link to="/">
     <h1>Welcome to Freecodecamp Ibadan Meetup</h1>
   </Link>
@@ -47,5 +76,5 @@ export default () => (
       </Link>
     </Center>
     <p> &copy; All right Reserved. Made with <span role="img" aria-label="heart emoji">💖</span> by the Ibadan Campers</p>
-  </div>
+  </Wrapper>
 )
