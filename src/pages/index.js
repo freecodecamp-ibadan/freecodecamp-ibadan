@@ -8,7 +8,7 @@ const Wrapper = styled.div`
     color: #fff;
     margin: 0;
     padding: 0;
-    a {
+    a>h1 {
       text-decoration: none;
       color: #fff;
     }
