@@ -1,0 +1,23 @@
+{
+  "projectName": "freecodecamp-ibadan",
+  "projectOwner": "freecodecamp-ibadan",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "stevoo24",
+      "name": "Yemi Fabusuyi",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/43810346?v=4",
+      "profile": "http://stevoo24.github.io",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
