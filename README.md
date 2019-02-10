@@ -1,4 +1,5 @@
 
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e150187b-9757-46a0-a000-d0d0ccb72e53/deploy-status)](https://app.netlify.com/sites/fcc-ibadan/deploys)
 
 # Freecodecamp Ibadan
@@ -32,3 +33,15 @@ You are good to go.
 * list of all the members of the meetup
 
 NB - You can write your suggestions here if you have any idea or thing we should do or use
+
+## Contributors
+
+Thanks goes to these wonderful people ([emoji key](https://github.com/all-contributors/all-contributors#emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+| [<img src="https://avatars2.githubusercontent.com/u/43810346?v=4" width="100px;" alt="Yemi Fabusuyi"/><br /><sub><b>Yemi Fabusuyi</b></sub>](http://stevoo24.github.io)<br />[💻](https://github.com/freecodecamp-ibadan/freecodecamp-ibadan/commits?author=stevoo24 "Code") |
+| :---: |
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
